@@ -47,3 +47,40 @@ switch (prompt("What is the weather like?")) {
     break;
 }
 ```
+
+## Eperience
+
+---
+
+- **Junior Frontend Software Engineer** at Ascended
+
+Projects:
+
+- [Crypto Creatures](https://crypto-creatures.io/)
+- [Triple O Games](https://tripleogames.com/)
+
+## Education & Courses:
+
+---
+
+- **Bachelor, Ilia State University, Tbilisi**
+  - Major in Physics, minor in Mathematics
+- **Master, Georgian Technical University, Tbilisi**
+  - Informatics
+- **[W3C JAVASCRIPT certificate](https://certification.w3schools.com/w3certified.asp?id=12894407)**
+
+## Languages:
+
+---
+
+- **Georgian** - native
+- **German** - A1
+- **French** - A1
+
+  ### **English** - C1 CEFR
+
+  ***
+
+> My trip to the US almost 3 years ago changed my mindset about communicating with people in a language you are not fluent. That helped me not to care about mistakes I make but to concentrate more on the subect itself.
+>
+> I practiced **_English_** almost all day for the last few years but the most valuable experience for improving my English was my Erasmus echange in two different countries where I had to study and communicate with people around only in **_English_** for more than a year.
