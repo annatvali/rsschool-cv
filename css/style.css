@@ -56,3 +56,56 @@ li > span {
 .left-box {
   min-width: 250px;
 }
+/* ----- HEADER STYLES ----- */
+nav {
+  padding: 20px 0;
+}
+.nav-list a {
+  text-transform: uppercase;
+}
+.header__img {
+  border: 10px solid var(--border-color);
+  border-radius: 50%;
+}
+/* ----- CODE STYLES ----- */
+pre {
+  background: var(--code-bg);
+}
+.blue {
+  color: var(--blue);
+}
+.light-blue {
+  color: var(--light-blue);
+}
+.purple {
+  color: var(--purple);
+}
+.orange {
+  color: var(--orange);
+}
+/* ----- LANGUAGES STYLES ----- */
+#languages span {
+  display: inline;
+}
+#languages span:first-child {
+  font-weight: bolder;
+}
+/* ----- SUMMARY STYLES ----- */
+#summary article p:first-of-type {
+  margin-bottom: 1em;
+}
+#summary p {
+  line-height: 1.3em;
+}
+/* ----- EDUCATION STYLES ----- */
+#education span:last-child {
+  margin-left: 30px;
+}
+#education span:first-child,
+#education li:last-of-type {
+  font-weight: bolder;
+}
+/* ----- FOOTER STYLES ----- */
+footer {
+  align-items: center;
+}
